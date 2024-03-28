@@ -33,3 +33,4 @@ Start   End     NumBatches      StartBatchId    LastBatchId     Num_Non_Outliers
 ```
 
 ##### 결과그림
+![CCND2_segments txt](https://github.com/ihpark20/fold_change_QC/assets/82359674/daad4444-375b-445f-8ed4-341c3d12397b)
